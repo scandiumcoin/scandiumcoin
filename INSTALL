@@ -1,0 +1,9 @@
+Building Scandiumcoin
+
+See doc/readme-qt.rst for instructions on building Scandiumcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Scandiumcoin.
+
+See doc/build-*.txt for instructions on building scandiumcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Scandiumcoin.
